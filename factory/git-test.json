@@ -1,0 +1,9 @@
+{
+	"name": "git-test",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1662bc7b-ba97-48a2-888d-9aa99ba3db35",
+		"tenantId": "0edfa164-4f8a-4259-8b25-183d83157de1"
+	}
+}
